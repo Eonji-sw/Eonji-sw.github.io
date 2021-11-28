@@ -19,6 +19,4 @@ categories: jekyll update
 
 ## Just nothing
 
-'''python
-# try print
-print("하기 싫음")
+try print like 'print()'
