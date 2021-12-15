@@ -57,7 +57,7 @@ en: &DEFAULT_EN
       - title: "Jekyll 시작 및 테마 적용"
         year: "2021-11-12"
         desc: "Jekyll 설치 후 시작, post upload, <br> 원하는 테마 적용"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/three.png
         alt: image alt text
       - title: "Blog 커스터마이즈"
         year: "2021-11-19"
