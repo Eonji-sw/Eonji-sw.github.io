@@ -8,7 +8,7 @@ $(function() {
     submitSuccess: function($form, event) {
       event.preventDefault(); // prevent default submit behaviour
       // get values from FORM
-	  var url = "https://formspree.io/" + "your-email@example.com";
+	  var url = "https://formspree.io/" + "ki6z2n5u1m@kookmin.ac.kr";
       var name = $("input#name").val();
       var email = $("input#email").val();
       var phone = $("input#phone").val();

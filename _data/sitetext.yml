@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to my Studio!
+    text: It's Eonji's Blog for eureka
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#topics"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "Topics"
+    text: "What I learned"
+    section: topics
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Git"
+        desc: "버전관리의 알파이자 오메가로 분산 버전관리 시스템이다. Github를 통해 전 세계 사람들과 버전관리가 가능하다."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Jekyll"
+        desc: "Ruby 기반의 정적 웹사이트 생성기이며, 이때 정적 웹사이트란 HTML 등으로 작성된 문서를 그대로 전달해주는 것이다."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "일반 텍스트로 서식이 있는 문서를 작성하는 방법이다. Header, Italic, Bold, Strikethrough, Unordered List, Ordered List, Code, Code Block 등의 문법을 통해 다양하게 문서를 작성할 수 있다."
         icon: fab fa-markdown
 
   portfolio:
@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "Who am I"
+    body: "20212979 소프트웨어학부 김언지"
     section: about
 
   clients:
