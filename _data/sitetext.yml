@@ -73,6 +73,7 @@ en: &DEFAULT_EN
     text: "Who am I"
     body: "20212979 소프트웨어학부 김언지"
     section: about
+    comments : True
 
   clients:
     section: clients
