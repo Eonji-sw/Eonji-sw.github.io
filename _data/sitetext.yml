@@ -21,10 +21,10 @@ en: &DEFAULT_EN
     text: "What I learned"
     section: topics
     list:
-      - title: "Git"
+      - title: "[Git](https://ko.wikipedia.org/wiki/%EA%B9%83_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4))"
         desc: "버전관리의 알파이자 오메가로 분산 버전관리 시스템이다. Github를 통해 전 세계 사람들과 버전관리가 <br> 가능하다."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Jekyll"
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+      - title: "[Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software))"
         desc: "Ruby 기반의 정적 웹사이트 생성기이며, <br> 이때 정적 웹사이트란 HTML 등으로 작성된 문서를 <br> 그대로 전달해주는 것이다."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
