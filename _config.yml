@@ -41,4 +41,4 @@ markdown: kramdown
 comment:
   provider: "disqus"
   disqus:
-    shortname: "Eonji-sw"
+    shortname: "eonji-sw"
