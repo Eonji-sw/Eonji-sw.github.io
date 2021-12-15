@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my Studio!
-    text: It's Eonji's Blog for eureka
+    text: It's Eonji's Blog for EurekaProject
     button: Tell Me More
     buttonlink: "#topics"
 
@@ -33,40 +33,40 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "What I did"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "What process is Blog"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Git 로컬 저장소 생성"
+        year: "2021-10-29"
+        desc: "현재 작업중인 디렉토리를 Git 저장소로 지정 및 브랜치 생성"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Jekyll 생성"
+        year: "2021-11-05"
+        desc: "Github Page 생성 및 시작, 토큰 생성"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Jekyll 시작 및 테마 적용"
+        year: "2021-11-12"
+        desc: "Jekyll 설치 후 시작, post upload, 원하는 테마 적용"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Blog 커스터마이즈"
+        year: "2021-11-19"
+        desc: "댓글 기능 추가(Disqus 사용)"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Story!"
 
   about:
     title: "About Me"
@@ -94,12 +94,12 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Who is there"
+    subtext: Not yet.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "None"
+        role: "None"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -108,8 +108,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Kim EonJi"
+        role: "Student"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,8 +118,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "None"
+        role: "None"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "How to contact me"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
