@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Ruby 기반의 정적 웹사이트 생성기이며, <br> 이때 정적 웹사이트란 HTML 등으로 작성된 문서를 <br> 그대로 전달해주는 것이다."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "일반 텍스트로 서식이 있는 문서를 작성하는 <br> 방법이다. Header, Italic, Bold, Strikethrough, <br> Unordered List, Ordered List, Code, Code Block 등의 문법을 통해 다양하게 <br> 문서를 작성할 수 있다."
+        desc: "일반 텍스트로 서식이 있는 문서를 작성하는 <br> 방법이다. Header, Italic, Bold, Strikethrough, <br> Unordered List, Ordered List, Code, Code Block 등의 문법을 통해 다양하게 문서를 작성할 수 있다."
         icon: fab fa-markdown
 
   portfolio:
