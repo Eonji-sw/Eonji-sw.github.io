@@ -20,3 +20,9 @@ categories: jekyll update
 
 - 일반 텍스트로 서식이 있는 문서를 작성하는 방법이다.
 - Header, Italic, Bold, Strikethrough, Unordered List, Ordered List, Code, Code Block 등의 문법을 통해 다양하게 문서를 작성할 수 있다.
+
+## Google Analytics 기능 추가
+- google analytics에서 계정 생성 
+- _congif.yml의 analytics 부분에 provider, tracking_id 작성
+- _includers/analytics.html에 gtag.js 작성
+- _layouts/home.html에 {% include analytics.html %} 작성
