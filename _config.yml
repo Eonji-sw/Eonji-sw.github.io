@@ -30,8 +30,8 @@ analytics:
   provider: "google-gtag"
 
   google: #Google Analytics tracking code here
-    tracking_id: "G-6R53RDFXWG"
-    anonymize_ip:
+    tracking_id: "G-Y6JMGX1531"
+    anonymize_ip: # true, false (default)
 
 collections:
   portfolio:
