@@ -20,6 +20,7 @@ en: &DEFAULT_EN
     title: "Topics"
     text: "What I learned"
     section: topics
+    comments: true
     list:
       - title: "[Git](https://ko.wikipedia.org/wiki/%EA%B9%83_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4))"
         desc: "버전관리의 알파이자 오메가로 분산 버전관리 시스템이다. Github를 통해 전 세계 사람들과 버전관리가 가능하다."
