@@ -35,3 +35,6 @@ Disqus 가입 및 세팅 <br>
 _config.yml 파일에 comment, provider, disqus, shortname의 key-value 추가 <br>
 Disqus 홈페이지에서 Universal Code 복사하여 _includes/comments.html 생성하여 페이지에 맞게 수정, PAGE_URL과 PAGE_IDENTIFIER 설정 <br>
 _layouts/home.html 파일에서 댓글을 허용하고 싶은 곳에 {% include comments.html %} 작성
+Google Analytics 기능 추가 <br>
+google analytics에서 계정 생성 후 _congif.yml의 analytics 부분에 provider, tracking_id 작성, <br>
+_includers/analytics.html에 gtag.js 작성, _layouts/home.html에 {% include analytics.html %} 작성
