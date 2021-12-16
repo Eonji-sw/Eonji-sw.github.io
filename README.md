@@ -8,7 +8,7 @@
 (Git이 이미 설치되어 있는 상태에서 시작) <br>
 *$ git init* 명령어를 통해 작업할 디렉토리를 git 저장소로 지정 <br>
 Github에서 <username>.github.io 이름의 Repository 생성 <br>
-Remote Repository의 주소를 복사하여 *$ git clone <repo_name> <path>*로 clone
+Remote Repository의 주소를 복사하여 *$ git clone repo_name path*로 clone
 
 ### blog_two : Jekyll 생성
 index.html을 예시 문서로 작성 <br>
