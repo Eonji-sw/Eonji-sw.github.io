@@ -27,7 +27,11 @@ author     : Kim EonJi
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
+  provider: "google-gtag"
+
   google: #Google Analytics tracking code here
+    tracking_id: "G-6R53RDFXWG"
+    anonymize_ip:
 
 collections:
   portfolio:
